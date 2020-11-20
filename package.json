@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-type-printer",
+  "version": "1.0.0",
+  "description": "takes pokemon inputs and delivers pokemon types",
+  "main": "pokemon-type-printer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Matt Harp, Jon Brown",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "init": "^0.1.2",
+    "node-fetch": "^2.6.1"
+  }
+}
